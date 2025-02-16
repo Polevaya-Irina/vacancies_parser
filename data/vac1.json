@@ -1366,65 +1366,6 @@
         "description": "Разработка тестового ПО для вычислительных блоков под ОС Astra Linux, КПДА, микроконтроллеры (<highlighttext>backend</highlighttext> и frontend). Разработка или поддержка драйверов для..."
     },
     {
-        "id": "106140597",
-        "name": "Manual QA (Frontend)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106140597",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Тестирование web-приложения. Тестирование взаимодействия с backend. Поиск и локализация дефектов. Создание и описание баг-репортов в багтрекере (Мы используем..."
-    },
-    {
-        "id": "105220232",
-        "name": "Html-верстальщик / frontend разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105220232",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Кроссбраузерная адаптивная верстка. Взаимодействие с дизайнерами для воплощения их идей в коде. Интеграция с backend-сервисами через API. "
-    },
-    {
-        "id": "105357916",
-        "name": "Младший backend-разработчик",
-        "salary": {
-            "from": 45000,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105357916",
-        "experience": "Нет опыта",
-        "employment": "Частичная занятость",
-        "description": "Развитие backend-составляющей существующих проектов. Разработки новых модулей и микросервисов системы по заданным спецификациям — описаниям API в Postman и описаниям..."
-    },
-    {
-        "id": "105544992",
-        "name": "Frontend-разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105544992",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка приложения с использованием react native. Разработка библиотеки компонентов на react native. Интеграция с backend-ом по REST и WebSocket. "
-    },
-    {
-        "id": "105986086",
-        "name": "Frontend-разработчик (стажировка)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105986086",
-        "experience": "Нет опыта",
-        "employment": "Стажировка",
-        "description": "Разработка и развитие одного из продуктов по макетам Figma, взаимодействие с UX/UI дизайнерами. Взаимодействие с командой (backend, тестировщики, project..."
-    },
-    {
-        "id": "106063098",
-        "name": "Frontend-разработчик (React)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106063098",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Работа в тесном сотрудничестве с менеджером продукта и веб-дизайнером, а также взаимодействие с разработчиками из команды backend. "
-    },
-    {
         "id": "104693876",
         "name": "Middle mobile QA Engineer офис/гибрид Москва",
         "salary": {
@@ -1453,56 +1394,6 @@
         "description": "Разработка новой и поддержание в актуальном состоянии существующей тестовой модели. Ручное, интеграционно-функциональное тестирование <highlighttext>frontend</highlighttext>, backend. Регрессионное тестирование функционала. "
     },
     {
-        "id": "106063581",
-        "name": "React developer / Разработчик React",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106063581",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разрабатывать веб-приложение для дистанционного банковского обслуживания физических лиц. Использовать микросервисный backend через REST API, SSE. Управлять данными при помощи..."
-    },
-    {
-        "id": "106047349",
-        "name": "Frontend-разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106047349",
-        "experience": "От 3 до 6 лет",
-        "employment": "Частичная занятость",
-        "description": "Разработка и оптимизация \\ интерфейсов веб-приложения. Работа в тесной связке с backend-разработчиками. Ответственность за кросс-браузерную и адаптивную верстку. "
-    },
-    {
-        "id": "105876985",
-        "name": "Frontend разработчик (React)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105876985",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и настройка функциональной части веб-приложений. Интеграция с backend api и сторонними ресурсами. Участие в кросс-review разработчиков. "
-    },
-    {
-        "id": "105848159",
-        "name": "Frontend React разработчик (Middle и выше)",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/105848159",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка <highlighttext>Frontend</highlighttext> сервисов, интегрированных с маркетплейсами. Взаимодействие с командой backend-разработчиков для обеспечения стабильной работы приложений. "
-    },
-    {
-        "id": "106046669",
-        "name": "Frontend Developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106046669",
-        "experience": "От 3 до 6 лет",
-        "employment": "Частичная занятость",
-        "description": "Разработка и оптимизация \\ интерфейсов веб-приложения. Работа в тесной связке с backend-разработчиками. Ответственность за кросс-браузерную и адаптивную верстку. "
-    },
-    {
         "id": "105066623",
         "name": "Middle Frontend-developer (React)",
         "salary": null,
@@ -1510,121 +1401,6 @@
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
         "description": "Может самостоятельно разработать компонент или часть проекта в связке frontend+backend. Дает обоснованное ETA и отдаёт готовую работу в срок или..."
-    },
-    {
-        "id": "106139445",
-        "name": "Frontend разработчик (middle/middle+) blockchain",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106139445",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка продукта компании. Проведение code review. Оценка трудоемкости задач. Взаимодействие с backend-разработчиками; тестировщиком."
-    },
-    {
-        "id": "106082902",
-        "name": "Backend разработчик",
-        "salary": {
-            "from": 150000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/106082902",
-        "experience": "Нет опыта",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка backend-части веб-приложений с использованием PHP и Laravel. Проектирование и реализация API Wildberries. Настройка и управление..."
-    },
-    {
-        "id": "105517650",
-        "name": "Frontend-разработчик",
-        "salary": {
-            "from": 500,
-            "to": 1000,
-            "currency": "USD",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105517650",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Доработка существующего mini app Telegram на React. Верстка по макетам. Тесное взаимодействие с backend разработчиком."
-    },
-    {
-        "id": "105853321",
-        "name": "Разработчик JavaScript (Node.js, TypeScript)",
-        "salary": {
-            "from": 150000,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105853321",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Частичная занятость",
-        "description": "Разработка backend-составляющей сервиса. Для работы используем корпоративный закрытый GitHub. Работа в качестве второго разработчика на задачах поддержки."
-    },
-    {
-        "id": "105237775",
-        "name": "QA Engineer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105237775",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Ручное тестирование web-приложений и backend-сервисов. Разработка и обновление тест-кейсов. Выполнение регрессионного и исследовательского тестирования. Документирование обнаруженных проблем..."
-    },
-    {
-        "id": "105377880",
-        "name": "Frontend-разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105377880",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Верстка web-интерфейсов для высоконагруженного проекта. Интеграция с backend. Сопровождение и контроль качества реализации. Стандартизация и создание универсальных UI-компонентов..."
-    },
-    {
-        "id": "105135924",
-        "name": "Frontend-разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105135924",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Взаимодействие с другими командами: backend-разработчиками; тестировщиками, аналитиками; дизайнерами. Активное участие в развитии <highlighttext>фронтенд</highlighttext> команды (участие в митапах и др.)."
-    },
-    {
-        "id": "104548478",
-        "name": "Frontend React разработчик",
-        "salary": {
-            "from": 100000,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/104548478",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка веб-сервисов под возникающие проекты. Взаимодействие с backend разработчиками. Работа с существующими СУБД (Mysql, mariadb, postgresql). Проектирование и реализация..."
-    },
-    {
-        "id": "104748439",
-        "name": "Разработчик фронтэнда React JS",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104748439",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "...priorities and measure the effectiveness. Work across platforms to power remarkable <highlighttext>front</highlighttext>-<highlighttext>end</highlighttext> experiences with robust backend services and APIs."
-    },
-    {
-        "id": "105755670",
-        "name": "Web-разработчик (Junior)",
-        "salary": {
-            "from": 45000,
-            "to": 60000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/105755670",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Реализовывать быстрые адаптивные интерфейсы по макетам. Работать над серверной частью веб-проектов. Взаимодействовать с дизайнерами, backend-разработчиками. Активно участвовать в..."
     },
     {
         "id": "104920178",
@@ -1641,38 +1417,6 @@
         "description": "...архитектуры баз данных. Разрабатывать новую функциональность и улучшать имеющуюся. Работать в связке backend и <highlighttext>frontend</highlighttext> - тесное взаимодействие с <highlighttext>frontend</highlighttext>-разработчиком."
     },
     {
-        "id": "105879606",
-        "name": "Web developer / веб-разработчик (frontend vue, nuxt) middle",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105879606",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Совместная работа на проекте с архитектором и backend разработчиками."
-    },
-    {
-        "id": "105740721",
-        "name": "HTML-верстальщик",
-        "salary": {
-            "from": 60000,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105740721",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка пользовательских интерфейсов веб-приложений. Интеграция с backend-сервисами. Оптимизация производительности и улучшение пользовательского опыта. Работа в команде..."
-    },
-    {
-        "id": "104667794",
-        "name": "Инженер-разработчик во внутреннюю разработку",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104667794",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработкой новой функциональности в части backend. Разработкой структур данных и хранимых процедур в PostgreSQL. Проведением код-ревью. Интеграциями сторонних сервисов..."
-    },
-    {
         "id": "105718094",
         "name": "PHP Developer (Laravel)",
         "salary": null,
@@ -1682,51 +1426,6 @@
         "description": "Поддержка и развитие текущего функционала. Работа в команде с backend и <highlighttext>frontend</highlighttext> разработчиками. Обсуждение и создание архитектуры приложений. "
     },
     {
-        "id": "105300976",
-        "name": "Frontend developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105300976",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "3 бизнес-направления. 21+ команд. 317+ IT специалистов (devops, manual/auto QA, web/mobile devs, backend devs, аналитики..."
-    },
-    {
-        "id": "104588902",
-        "name": "Frontend-разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104588902",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка SPA на Vue 3. Взаимодействие с менеджерами, дизайнером, backend-разработчиками."
-    },
-    {
-        "id": "106003898",
-        "name": "Middle Backend Developer Python",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106003898",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Backend: Django, DRF, Celery, Selenium. Поддержкой и доработкой текущей версией backend’a продукта (Django). Разбиением монолита на микросервисы (Django/FastAPI). "
-    },
-    {
-        "id": "105650521",
-        "name": "Middle/Senior frontend-разработчик (JavaScript и TypeScript)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105650521",
-        "experience": "Более 6 лет",
-        "employment": "Полная занятость",
-        "description": "Вас ожидают интересные проекты: мобильные приложения, высоконагруженные системы, интеграционные решения, смежные и backend задачи. Разработка на TypeScript. Разработка взаимодействия с..."
-    },
-    {
-        "id": "105404520",
-        "name": "Middle+/Senior Frontend developer Vue.JS",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105404520",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Проектировать и разрабатывать веб приложения Гастроном Медиа и Магнит ИТМ. Проводить code-review. Взаимодействовать с backend-разработчиками, дизайнерами. "
-    },
-    {
         "id": "95196576",
         "name": "Разработчик Python",
         "salary": null,
@@ -1734,107 +1433,6 @@
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
         "description": "PostgreSQL, Redis, Elasticsearch. ELK stack. Работать в продуктовой команде (руководитель проекта, <highlighttext>frontend</highlighttext>- и backend-разработчики, тестировщики, аналитики, архитектор). "
-    },
-    {
-        "id": "104647056",
-        "name": "Веб-программист разработчик",
-        "salary": {
-            "from": 60000,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/104647056",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Проработка архитектуры приложений, логики работы и реализации сервисов. Разработка кода backend части. Поддержка существующей кодовой базы."
-    },
-    {
-        "id": "105639769",
-        "name": "PHP backend developer (middle+/senior)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105639769",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Проектирование, разработка backend-архитектуры и API для проекта, внедрение новых фич. Реализация интеграций со сторонними сервисами. Оптимизация и развитие БД. "
-    },
-    {
-        "id": "105489433",
-        "name": "Middle | Senior backend developer ( Node JS, Nest JS )",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105489433",
-        "experience": "От 3 до 6 лет",
-        "employment": "Проектная работа",
-        "description": "Разработка backend части веб-сайта с нуля. Создание RESTful API для взаимодействия с <highlighttext>фронтендом</highlighttext>. Разработка и оптимизация базы данных PostgreSQL. "
-    },
-    {
-        "id": "105483683",
-        "name": "Frontend-разработчик (VUE.js 3) в офис",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105483683",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Тесное сотрудничество с архитекторами, дизайнерами и backend-инженерами. Участие в командной работе: конференции, собрания, code review и проектирование. Документирование разработки. "
-    },
-    {
-        "id": "105703764",
-        "name": "Frontend-разработчик (VUE)",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105703764",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Развитие существующих проектов и разработка новых. Решать задачи в паре с дизайнером, SEO, backend-разработчиками."
-    },
-    {
-        "id": "105355942",
-        "name": "Frontend-разработчик flutter",
-        "salary": {
-            "from": null,
-            "to": 30000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105355942",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка мобильных приложений на Flutter. - Участие в проектировании архитектуры приложения. - Тесное взаимодействие с командой дизайнеров и backend-разработчиков..."
-    },
-    {
-        "id": "105915830",
-        "name": "Senior Frontend-разработчик (Vue.js)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105915830",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка клиентской части с использованием фреймворка Vue. Оптимизация API совместно с backend-разработчиками. Оптимизация кода и устранение проблем с его..."
-    },
-    {
-        "id": "105385075",
-        "name": "Python developer (Дашборд)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105385075",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка backend части. Оптимизация работы сервиса по результатам нагрузочного тестирования."
-    },
-    {
-        "id": "105878579",
-        "name": "Backend Developer (NodeJS)",
-        "salary": {
-            "from": 150000,
-            "to": 350000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105878579",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "2 backend разработчика. - качество кода: prettier, eslint. - Gitlab, Gitlab CI/CD."
     },
     {
         "id": "106081370",
@@ -1851,38 +1449,6 @@
         "description": "Работа с backend (70-80%) на Laravel 11. Большим плюсом будет знание Vue3/Nuxt3 для работы с <highlighttext>frontend</highlighttext>..."
     },
     {
-        "id": "99602211",
-        "name": "Разработчик C#, Логистика, Системы оперирования точкой ПВЗ",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/99602211",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Решать backend-задачи системы открытия пунктов выдачи от начала до конца: схема БД, контракты между сервисами, реализация бизнес-логики, метрики..."
-    },
-    {
-        "id": "105757366",
-        "name": "JS Разработчик (Vue, Nuxt, Next)",
-        "salary": {
-            "from": 120000,
-            "to": 160000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/105757366",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Частичная занятость",
-        "description": "Проектирование архитектуры решений. Оптимизация кода и поддержание правильной архитектуры. <highlighttext>Frontend</highlighttext>/backend разработка (backend “легкий”). Верстка страниц. Работа с Map фреймворками. "
-    },
-    {
-        "id": "104948168",
-        "name": "Frontend-разработчик (JS\\React)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104948168",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Доработка ключевых разделов сайта: Ленты, Записей, Комментариев. Взаимодействие с другими участниками: дизайнерами, мобильными и backend-разработчиками."
-    },
-    {
         "id": "103267514",
         "name": "Старший Java-разработчик",
         "salary": null,
@@ -1890,88 +1456,6 @@
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
         "description": "Возможности примения опенсорс-кода при реализации модулей ПО SyncXpert. Постановка задач backend и <highlighttext>frontend</highlighttext> разработчикам модулей ПО SyncXpert. "
-    },
-    {
-        "id": "104700919",
-        "name": "Middle Frontend developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104700919",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка нового функционала по ТЗ, взаимодействие с backend разработчиком. Верстка макетов из Figma. Правка уже существующей верстки и компонентов. "
-    },
-    {
-        "id": "105545488",
-        "name": "Frontend-разработчик (React)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105545488",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка интерфейсов и логики web и мобильного приложения (React Native). Проектирование решений совместно с дизайнерами и backend-разработчиками."
-    },
-    {
-        "id": "105802168",
-        "name": "Fullstack QA Engineer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105802168",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Ручное тестирование приложений: android, web, backend. Поддержка и развитие существующего решения для автоматизации тестирования API JavaScript+Jest. Создание тест-планов, сценариев..."
-    },
-    {
-        "id": "104887267",
-        "name": "Middle Backend developer, C#",
-        "salary": {
-            "from": 250000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/104887267",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Участвовать в разработке системы автоматизации продаж билетов на зрелищные мероприятия. Решать различные backend задачи: создание REST API, сервисов обработки данных..."
-    },
-    {
-        "id": "104594044",
-        "name": "Backend Developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104594044",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка пользовательских интерфейсов и backend-сервисов. Обеспечение работы разработанной в текущей инфраструктуре. Поддержка существующего кода. Осуществление ревью пулл-реквестов коллег. "
-    },
-    {
-        "id": "104226576",
-        "name": "Frontend-разработчик /React Native (в офис)",
-        "salary": {
-            "from": 150000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/104226576",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Доработка мобильного приложения на React (работает через Expo). Интеграция с backend-сервисами ( для работы с мобильным приложением на сайте развернут..."
-    },
-    {
-        "id": "104930453",
-        "name": "Frontend разработчик (React)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104930453",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка на React/Next.js новых продуктов/фичей, развитие бизнес-логики веб-приложений. Тесное взаимодействие с командой backend (REST API). "
-    },
-    {
-        "id": "106050387",
-        "name": "PHP Laravel Developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/106050387",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Develop, maintain, and enhance backend components of our platform using PHP and the Laravel framework. Design, build, and optimize our..."
     },
     {
         "id": "104570909",
@@ -1995,29 +1479,6 @@
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
         "description": "Доработка пользовательского интерфейса на PHP (backend) и HTML/JS/CSS (<highlighttext>frontend</highlighttext>). Участие в разработке MVP новых продуктов. Поддержка текущих версий..."
-    },
-    {
-        "id": "105308253",
-        "name": "Тестировщик ПО / QA engineer (офис)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105308253",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Функциональное и регрессионное тестирование продуктов (мобильные приложения, сайты, backend). Работа с баг-трекинговой системой: регистрация багов, контроль исполнения, проверка исправлений. "
-    },
-    {
-        "id": "105328688",
-        "name": "Middle+ Frontend Developer (React Native)",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105328688",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка и мобильных приложений на базе React Native. Участие в проектировании и обсуждении архитектуры приложений. Взаимодействие с backend..."
     },
     {
         "id": "105967777",
@@ -2054,15 +1515,6 @@
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
         "description": "Разработка и поддержка GraphQL backend. Взаимодействие с командой для интеграции <highlighttext>frontend</highlighttext> и backend частей приложения. Проведение код-ревью и менторинг..."
-    },
-    {
-        "id": "105737778",
-        "name": "Senior Frontend Developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105737778",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка продукта компании. - Проведение код-ревью. - Оценка трудоемкости задач. - Взаимодействие с другими командами: backend-разработчиками; тестировщиками, продакт-менеджерами."
     },
     {
         "id": "106066217",
@@ -2120,15 +1572,6 @@
         "description": "Разрабатывать сервисы для нужд компании с нуля (подбор архитектуры, выбор стека технологий для <highlighttext>frontend</highlighttext> vs backend, реализация выбранного решения, составление..."
     },
     {
-        "id": "104992056",
-        "name": "Java Разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104992056",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Проектировать архитектуру технических решений для backend’а. Писать сложную логику в backend-части крупной CRM-системы. Разрабатывать интеграционный функционал на..."
-    },
-    {
         "id": "105221275",
         "name": "Инженер по тестированию ПО",
         "salary": null,
@@ -2138,20 +1581,6 @@
         "description": "Проведением интеграционного, функционального и регрессионного тестирования веб-приложений (backend & <highlighttext>frontend</highlighttext>). Составлением чек-листов, тест-планов, тестовых сценариев. Фиксацией обнаруженных дефектов..."
     },
     {
-        "id": "104928759",
-        "name": "Frontend-разработчик (React)",
-        "salary": {
-            "from": null,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/104928759",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка на React для продуктов компании (SaaS и другие проекты). Тесное взаимодействие с командой backend (REST API). Разработка экранов по..."
-    },
-    {
         "id": "105407993",
         "name": "Full Stack Developer (JS)",
         "salary": null,
@@ -2159,29 +1588,6 @@
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
         "description": "Разработка новых и поддержка существующих backend и <highlighttext>frontend</highlighttext> частей нашего продукта. ️ Решение сложных технических задач. 1. Интервью с рекрутером."
-    },
-    {
-        "id": "105420497",
-        "name": ".NET Developer",
-        "salary": {
-            "from": 2500,
-            "to": 3500,
-            "currency": "USD",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/105420497",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Designing, developing, and testing backend for web applications. Build reusable code and libraries for future use. Accurately translate user and..."
-    },
-    {
-        "id": "104448579",
-        "name": "Фронтенд-разработчик внутренних интерфейсов Финтеха",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104448579",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Мы всегда рады обсудить предлагаемые решения. Доработка общей технологической платформы <highlighttext>фронтенда</highlighttext> Финтеха. Разработка backend-driven-платформы. Разрабатывали на Node.js. "
     },
     {
         "id": "105967746",
@@ -2211,8 +1617,54 @@
         "description": "Работа в продуктовой кросс-функциональной команде. Обеспечивать качество продуктов команды. Создавать <highlighttext>frontend</highlighttext> и backend тесты на Golang и TypeScript (научим). "
     },
     {
+        "id": "105245855",
+        "name": "Full-stack Разработчик (Django, React)",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/105245855",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Реализация backend и frontend для корпоративной системы автоматизации бизнес процессов. Написание интеграций с другими сервисами. Участие в проектировании архитектуры. "
+    },
+    {
+        "id": "105234479",
+        "name": "Full-stack Разработчик (Django, React)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105234479",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Реализация backend и frontend для личного кабинета группы компаний \"Astra Linux\". Написание интеграций с другими сервисами. Участие в проектировании архитектуры. "
+    },
+    {
+        "id": "106001324",
+        "name": "QA Engineer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/106001324",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Контролировать качество backend API и клиентской части (web, iOS, Android). Тестировать backend и API, поменьше frontend и немного мобильные приложения. "
+    },
+    {
+        "id": "106175146",
+        "name": "Инженер-программист",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/106175146",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Работа в команде, над общим проектом. Написание программного кода на языке <highlighttext>python</highlighttext>. Разработка как backend-а так и frontend-a. "
+    },
+    {
         "id": "106135488",
-        "name": "Python Engineer",
+        "name": "Python Backend Developer",
         "salary": null,
         "url": "https://hh.ru/vacancy/106135488",
         "experience": "От 3 до 6 лет",
@@ -2220,13 +1672,27 @@
         "description": "Разрабатывать и сопровождать backend-приложения и сервисы, используя Python 3 в качестве основного языка программирования (мы используем FastApi/<highlighttext>Django</highlighttext>). "
     },
     {
-        "id": "105892567",
-        "name": "Python Developer",
+        "id": "106289062",
+        "name": "Python разработчик",
         "salary": null,
-        "url": "https://hh.ru/vacancy/105892567",
+        "url": "https://hh.ru/vacancy/106289062",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка внутренних инструментов и админок для отдела подключения и контроля базы источников. Создание backend админок. Проектирование и разработка внутренних инструментов. "
+    },
+    {
+        "id": "104932854",
+        "name": "Middle Python разработчик",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/104932854",
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
-        "description": "Разработка backend, API на Python, ML. - Linux / Docker / Kubernetes. - Базы данных."
+        "description": "Разработка backend части программного обеспечения. Поддержка текущих проектов и развитие новых. Разработка и поддержка микросервисов. Проектирование архитектуры сервисов и их..."
     },
     {
         "id": "106040532",
@@ -2257,18 +1723,36 @@
         "description": "Участие в проектировании и реализации архитектуры backend-части. Написание качественного, тестируемого и документированного кода. Разработка RESTful API. Интеграция с различными..."
     },
     {
-        "id": "104932854",
-        "name": "Middle Python разработчик",
+        "id": "104896344",
+        "name": "Разработчик Python",
         "salary": {
-            "from": 150000,
-            "to": 200000,
+            "from": 200000,
+            "to": 250000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://hh.ru/vacancy/104932854",
+        "url": "https://hh.ru/vacancy/104896344",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка backend на <highlighttext>Django</highlighttext>. Разработка REST сервисов. Разработка async сервисов. Разработка клиентов для работы со сторонними API. Написание unit тестов. "
+    },
+    {
+        "id": "105724706",
+        "name": "Backend-разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105724706",
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
-        "description": "Разработка backend части программного обеспечения. Поддержка текущих проектов и развитие новых. Разработка и поддержка микросервисов. Проектирование архитектуры сервисов и их..."
+        "description": "Разработка и поддержка backend-сервисов на Python 3 с использованием HTTP/gRPC/AMQP интерфейсов. Проектирование и разработка моделей данных предметной..."
+    },
+    {
+        "id": "105892567",
+        "name": "Python Developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105892567",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка backend, API на Python, ML. - Linux / Docker / Kubernetes. - Базы данных."
     },
     {
         "id": "103885193",
@@ -2280,24 +1764,74 @@
         "description": "Разработка backend и API в проектах по созданию аналитических систем и систем поддержки принятия решений в области логистики на ЖД. "
     },
     {
-        "id": "104597746",
-        "name": "Backend-разработчик на языке Python",
+        "id": "105755670",
+        "name": "Web-разработчик (Junior)",
         "salary": {
-            "from": 40000,
-            "to": 80000,
+            "from": 45000,
+            "to": 60000,
             "currency": "RUR",
             "gross": true
         },
-        "url": "https://hh.ru/vacancy/104597746",
+        "url": "https://hh.ru/vacancy/105755670",
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
-        "description": "Написание backend части веб-сервисов на языке Python для коммерческих проектов. Развертывание веб-приложений на сервере."
+        "description": "Реализовывать быстрые адаптивные интерфейсы по макетам. Работать над серверной частью веб-проектов. Взаимодействовать с дизайнерами, backend-разработчиками. Активно участвовать в..."
     },
     {
-        "id": "105930143",
+        "id": "104833774",
+        "name": "Python-разработчик (Django, FastAPI)",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/104833774",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и редактирование backend части (<highlighttext>Django</highlighttext>, FastAPI) для работы web-приложения. Документирование созданного API в Wiki проекта. Разработка интеграции с..."
+    },
+    {
+        "id": "104421231",
+        "name": "Backend-разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/104421231",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Реализация backend-задач согласно техническому заданию: реализация новых и модификация существующих web-страниц."
+    },
+    {
+        "id": "106003898",
+        "name": "Middle Backend Developer Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/106003898",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Backend: <highlighttext>Django</highlighttext>, DRF, Celery, Selenium. Поддержкой и доработкой текущей версией backend’a продукта (<highlighttext>Django</highlighttext>). Разбиением монолита на микросервисы (<highlighttext>Django</highlighttext>/FastAPI). "
+    },
+    {
+        "id": "105385075",
+        "name": "Python developer (Дашборд)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105385075",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend части. Оптимизация работы сервиса по результатам нагрузочного тестирования."
+    },
+    {
+        "id": "105930065",
         "name": "Python BackEnd developer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/105930143",
+        "url": "https://hh.ru/vacancy/105930065",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
+    },
+    {
+        "id": "105930051",
+        "name": "Python BackEnd developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105930051",
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
         "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
@@ -2317,27 +1851,13 @@
         "description": "Разработка и поддержка backend на Python (<highlighttext>Django</highlighttext>/Celery/Redis или Memcache). Интеграция с внешними сервисами и API. Оптимизация производительности и..."
     },
     {
-        "id": "105724706",
-        "name": "Backend-разработчик",
+        "id": "105930143",
+        "name": "Python BackEnd developer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/105724706",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка backend-сервисов на Python 3 с использованием HTTP/gRPC/AMQP интерфейсов. Проектирование и разработка моделей данных предметной..."
-    },
-    {
-        "id": "104833774",
-        "name": "Python-разработчик (Django, FastAPI)",
-        "salary": {
-            "from": null,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/104833774",
+        "url": "https://hh.ru/vacancy/105930143",
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Разработка и редактирование backend части (<highlighttext>Django</highlighttext>, FastAPI) для работы web-приложения. Документирование созданного API в Wiki проекта. Разработка интеграции с..."
+        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
     },
     {
         "id": "105930028",
@@ -2347,56 +1867,6 @@
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
         "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
-    },
-    {
-        "id": "105930051",
-        "name": "Python BackEnd developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105930051",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
-    },
-    {
-        "id": "105930065",
-        "name": "Python BackEnd developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105930065",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
-    },
-    {
-        "id": "104421231",
-        "name": "Backend-разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104421231",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Реализация backend-задач согласно техническому заданию: реализация новых и модификация существующих web-страниц."
-    },
-    {
-        "id": "104896344",
-        "name": "Разработчик Python",
-        "salary": {
-            "from": 200000,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://hh.ru/vacancy/104896344",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка backend на <highlighttext>Django</highlighttext>. Разработка REST сервисов. Разработка async сервисов. Разработка клиентов для работы со сторонними API. Написание unit тестов. "
-    },
-    {
-        "id": "104478653",
-        "name": "Middle Django (DRF) backend developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104478653",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Разработка и поддержка backend составляющей веб-приложения. - Рефакторинг и оптимизация существующего кода. - Интеграция приложения с другими сервисами. - Покрытие кодовой базы..."
     },
     {
         "id": "105743285",
@@ -2413,27 +1883,13 @@
         "description": "Принимать активное участие в разработке продуктов компании в команде в качестве backend-разработчика. Разрабатывать новые и поддерживать старые \"фичи\". "
     },
     {
-        "id": "105166142",
-        "name": "Python Developer Middle+",
-        "salary": {
-            "from": 10000000,
-            "to": 15000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://hh.ru/vacancy/105166142",
-        "experience": "От 3 до 6 лет",
-        "employment": "Проектная работа",
-        "description": "Реализацией новых проектов, продуктов и поддержкой существующих. Разработкой backend для веб-сервисов и мобильных приложений (rest). Отдавать на ревью свой..."
-    },
-    {
-        "id": "104585732",
-        "name": "Middle Python developer на продукт Data Quality (Big Data)",
+        "id": "92116169",
+        "name": "Python разработчик",
         "salary": null,
-        "url": "https://hh.ru/vacancy/104585732",
+        "url": "https://hh.ru/vacancy/92116169",
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Разрабатывать backend основного сервиса DQ CORE, вспомогательных сервисов (Профилировщик данных, Дата Контракты) и прикладные библиотеки для анализа качества данных. "
+        "description": "Проектировать отказоустойчивые технические решений. Разрабатывать высоконагруженные микросервисы по задачам платформы backend. Не только писать код, но и отвечать за него..."
     },
     {
         "id": "94919177",
@@ -2443,6 +1899,15 @@
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
         "description": "Разработка backend для мобильных приложений в сфере e-commerce. Full-stack разработка web приложения для администрирования онлайн-магазина заказчика. "
+    },
+    {
+        "id": "104585732",
+        "name": "Middle Python developer на продукт Data Quality (Big Data)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/104585732",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разрабатывать backend основного сервиса DQ CORE, вспомогательных сервисов (Профилировщик данных, Дата Контракты) и прикладные библиотеки для анализа качества данных. "
     },
     {
         "id": "104794390",
@@ -2459,45 +1924,27 @@
         "description": "Написание читаемого, тестируемого и эффективного кода. - Разработка backend на Python <highlighttext>Django</highlighttext>. - Разработка микросервисных решений. - Интеграции с различными внешними системами. - "
     },
     {
-        "id": "92116169",
-        "name": "Python разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/92116169",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "Проектировать отказоустойчивые технические решений. Разрабатывать высоконагруженные микросервисы по задачам платформы backend. Не только писать код, но и отвечать за него..."
-    },
-    {
-        "id": "104540942",
-        "name": "Backend developer (Python)",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/104540942",
-        "experience": "От 1 года до 3 лет",
-        "employment": "Полная занятость",
-        "description": "Одна из первостепенных задач – разработка backend для брокерского приложения по POS кредитованию. Разработка микросервисов для интеграции с различными банками. "
-    },
-    {
-        "id": "105658142",
-        "name": "Middle/Middle+ Frontend Developer",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105658142",
-        "experience": "От 3 до 6 лет",
-        "employment": "Полная занятость",
-        "description": "development of user interfaces using React 18+ and integration with backend APIs. - close collaboration with PM, Dev team, QA..."
-    },
-    {
-        "id": "105245855",
-        "name": "Full-stack Разработчик (Django, React)",
+        "id": "105166142",
+        "name": "Python Developer Middle+",
         "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
+            "from": 10000000,
+            "to": 15000000,
+            "currency": "UZS",
+            "gross": true
         },
-        "url": "https://hh.ru/vacancy/105245855",
-        "experience": "От 1 года до 3 лет",
+        "url": "https://hh.ru/vacancy/105166142",
+        "experience": "От 3 до 6 лет",
+        "employment": "Проектная работа",
+        "description": "Реализацией новых проектов, продуктов и поддержкой существующих. Разработкой backend для веб-сервисов и мобильных приложений (rest). Отдавать на ревью свой..."
+    },
+    {
+        "id": "104478653",
+        "name": "Middle Django (DRF) backend developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/104478653",
+        "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Реализация backend и frontend для корпоративной системы автоматизации бизнес процессов. Написание интеграций с другими сервисами. Участие в проектировании архитектуры. "
+        "description": "Разработка и поддержка backend составляющей веб-приложения. - Рефакторинг и оптимизация существующего кода. - Интеграция приложения с другими сервисами. - Покрытие кодовой базы..."
     },
     {
         "id": "98964007",
@@ -2509,13 +1956,13 @@
         "description": "Разрабатывать backend на Python. Написание программных модулей, облегчающих решение типовых задач обработки данных. Code review, обеспечение качества кода."
     },
     {
-        "id": "100513612",
-        "name": "Senior Python developer",
+        "id": "105658142",
+        "name": "Middle/Middle+ Frontend Developer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/100513612",
+        "url": "https://hh.ru/vacancy/105658142",
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Design and development of backend microservices (Python + JS). Implementation of various algorithms. Support and refactoring of legacy services. "
+        "description": "development of user interfaces using React 18+ and integration with backend APIs. - close collaboration with PM, Dev team, QA..."
     },
     {
         "id": "105272931",
@@ -2536,12 +1983,12 @@
         "description": "Разработка программного обеспечения (backend) для финтех, сопровождение и доработка текущих проектов."
     },
     {
-        "id": "105234479",
-        "name": "Full-stack Разработчик (Django, React)",
+        "id": "103114641",
+        "name": "Middle Django(DRF) backend developer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/105234479",
+        "url": "https://hh.ru/vacancy/103114641",
         "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Реализация backend и frontend для личного кабинета группы компаний \"Astra Linux\". Написание интеграций с другими сервисами. Участие в проектировании архитектуры. "
+        "description": "Разработка и поддержка backend составляющей веб-приложения. - Рефакторинг и оптимизация существующего кода. - Интеграция приложения с другими сервисами. - Покрытие кодовой базы..."
     }
 ]

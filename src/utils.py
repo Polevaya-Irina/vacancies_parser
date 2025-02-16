@@ -1,4 +1,3 @@
-import json
 from typing import Any
 
 from src.get_top_vacancies import get_top_vacancies
@@ -28,9 +27,7 @@ def user_interaction() -> Any:
 
     filter_word = input()
 
-    formated_list_json.get_data_from_json(filter_word)
-    with open("data/vac1.json", encoding="utf-8") as f:
-        filtered_vacancies = json.load(f)
+    filtered_vacancies = formated_list_json.get_data_from_json(filter_word)
 
     print(
         f"'{filter_word}' в описании было найдено в {len(filtered_vacancies)} вакансиях."
@@ -41,19 +38,6 @@ def user_interaction() -> Any:
     top_number = int(input())
 
     top_vacancies = get_top_vacancies(top_number, filtered_vacancies)
-
-    vacancies = [
-        Vacancy(
-            vacancy["name"],
-            vacancy["id"],
-            vacancy["salary"],
-            vacancy["url"],
-            vacancy["experience"],
-            vacancy["employment"],
-            vacancy["description"],
-        )
-        for vacancy in filtered_vacancies
-    ]
 
     print(f"Вот топ {top_number} вакансий по зарплате:")
     vacancies = [

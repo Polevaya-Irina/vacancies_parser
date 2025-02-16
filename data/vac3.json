@@ -1,11 +1,1 @@
-[
-    {
-        "description": "a word"
-    },
-    {
-        "description": "word again"
-    },
-    {
-        "description": "one more word"
-    }
-]
+[{"description": "a word"}, {"description": "nothing to find"}, {"description": "word again"}, {"description": "one more word"}, {"description": "and again nothing"}]

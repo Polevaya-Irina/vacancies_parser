@@ -26,6 +26,9 @@ def vacancies_list():
     ]
 
 
+# "data/vacancies.json"
+
+
 def test_save_to_json(vacancies_list):
     result = WorkWithJson()
     result.save_to_json(vacancies_list, "data/vacancies.json")
